@@ -1,16 +1,25 @@
 {
   "rest": [
     {
-      "id": "id_001",
-      "name": "Grace Road Kitchen",
-      "image": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
-      "distance": "2"
+      "route": "RestMenu",
+      "text": "Only Title",
+      "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
+      "likes": 76,
+      "distance": "3"
     },
     {
-      "id": "id_002",
-      "name": "Dorothy's Kitchen",
-      "image": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
-      "distance": "4"
+      "route": "RestMenu",
+      "text": "Icon Buttons",
+      "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
+      "likes": 2112,
+      "distance": "1"
+    },
+    {
+      "route": "RestMenu",
+      "text": "Icon Buttons",
+      "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
+      "likes": 234,
+      "distance": "2"
     }
   ]
 }
