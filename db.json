@@ -1,7 +1,7 @@
 {
   "mapRest": {
-    "source": { "latitude": "-33.8356372", "longitude": "18.6947617" },
-    "destination": { "latitude": "-33.8600024", "longitude": "18.697459" },
+    "source": { "latitude": -33.8356372, "longitude": 18.6947617 },
+    "destination": { "latitude": -33.8600024, "longitude": 18.697459 },
     "params": [
       {
         "key": "travelmode",
