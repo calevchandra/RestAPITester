@@ -16,8 +16,8 @@
 
   "rest": [
     {
-      "route": "RestMenu",
-      "text": "Only Title",
+      "id": "id_001",
+      "name": "McDonalds",
       "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
       "likes": 76,
       "distance": "3",
@@ -25,18 +25,18 @@
       "longitude": 18.6947617
     },
     {
-      "route": "RestMenu",
-      "text": "Icon Buttons",
-      "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
+      "id": "id_002",
+      "name": "Subway",
+      "restImage": "http://bestmediainfo.com/uploads/2016/11/Subway-logo-top.jpg",
       "likes": 2112,
       "distance": "1",
       "latitude": -33.8356372,
       "longitude": 18.6947617
     },
     {
-      "route": "RestMenu",
-      "text": "Icon Buttons",
-      "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
+      "id": "id_003",
+      "name": "Pizza King",
+      "restImage": "http://103gbfrocks.com/files/2011/08/Pizza-King-black-bg-300x268.jpg?w=980&q=75",
       "likes": 234,
       "distance": "2",
       "latitude": -33.8356372,
