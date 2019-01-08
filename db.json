@@ -18,8 +18,8 @@
     {
       "id": "id_001",
       "route": "RestMenu",
-      "name": "Ashiyana",
-      "restImage": "https://www.dropbox.com/s/1hly9qacdcn0y8f/ashiana.png?dl=0",
+      "name": "Noodle Story",
+      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/BG_noodlestory.png",
       "distance": "3",
       "latitude": -33.8356372,
       "longitude": 18.6947617
@@ -28,7 +28,7 @@
       "id": "id_002",
       "route": "RestMenu",
       "name": "Burger King",
-      "restImage": "https://www.dropbox.com/s/he5uowu7aqhoh1a/burgerking.png?dl=0",
+      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/BG_burgerking.png",
       "distance": "1",
       "latitude": -33.8356372,
       "longitude": 18.6947617
@@ -36,8 +36,8 @@
     {
       "id": "id_003",
       "route": "RestMenu",
-      "name": "Grace Road Kitchen",
-      "restImage": "https://www.dropbox.com/s/6d0m6sc11ddvcpu/gracerd.png?dl=0",
+      "name": "Daikoku",
+      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/BG_daikoku.png",
       "distance": "2",
       "latitude": -33.8356372,
       "longitude": 18.6947617
