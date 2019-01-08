@@ -19,7 +19,7 @@
       "id": "id_001",
       "route": "RestMenu",
       "name": "Noodle Story",
-      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/BG_noodlestory.png",
+      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/SG_noodlestory.png",
       "distance": "3",
       "latitude": -33.8356372,
       "longitude": 18.6947617
@@ -28,7 +28,7 @@
       "id": "id_002",
       "route": "RestMenu",
       "name": "Burger King",
-      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/BG_burgerking.png",
+      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/SG_burgerking.png",
       "distance": "1",
       "latitude": -33.8356372,
       "longitude": 18.6947617
@@ -37,7 +37,7 @@
       "id": "id_003",
       "route": "RestMenu",
       "name": "Daikoku",
-      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/BG_daikoku.png",
+      "restImage": "http://nadruaapps.com/wp-content/uploads/2019/01/SG_daikoku.png",
       "distance": "2",
       "latitude": -33.8356372,
       "longitude": 18.6947617
