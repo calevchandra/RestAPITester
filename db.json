@@ -18,8 +18,8 @@
     {
       "id": "id_001",
       "route": "RestMenu",
-      "name": "McDonalds",
-      "restImage": "https://vignette.wikia.nocookie.net/logopedia/images/8/81/McDonalds_27.png/revision/latest?cb=20150719154326",
+      "name": "Ashiyana",
+      "restImage": "https://www.dropbox.com/s/1hly9qacdcn0y8f/ashiana.png?dl=0",
       "distance": "3",
       "latitude": -33.8356372,
       "longitude": 18.6947617
@@ -27,8 +27,8 @@
     {
       "id": "id_002",
       "route": "RestMenu",
-      "name": "Subway",
-      "restImage": "http://bestmediainfo.com/uploads/2016/11/Subway-logo-top.jpg",
+      "name": "Burger King",
+      "restImage": "https://www.dropbox.com/s/he5uowu7aqhoh1a/burgerking.png?dl=0",
       "distance": "1",
       "latitude": -33.8356372,
       "longitude": 18.6947617
@@ -36,8 +36,8 @@
     {
       "id": "id_003",
       "route": "RestMenu",
-      "name": "Pizza King",
-      "restImage": "http://103gbfrocks.com/files/2011/08/Pizza-King-black-bg-300x268.jpg?w=980&q=75",
+      "name": "Grace Road Kitchen",
+      "restImage": "https://www.dropbox.com/s/6d0m6sc11ddvcpu/gracerd.png?dl=0",
       "distance": "2",
       "latitude": -33.8356372,
       "longitude": 18.6947617
