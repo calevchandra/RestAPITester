@@ -1,4 +1,21 @@
 {
+  "iataports": [
+    {
+      "country_iso2": "NZ",
+      "iata_port": "AKL",
+      "customs_currency": null,
+      "utc_timezone_offset": 1400,
+      "state": "ACK",
+      "city": "Auckland",
+      "configuration": {
+        "hex_colour": "#DDEEFF",
+        "can_receive_inbound": "true",
+        "can_receive_outbound": "true",
+        "can_dispatch": "true",
+        "audio_uri": "https://api.nzpost.co.nz/manifestbroker/static/audio/GBLHR.mp3"
+      }
+    }
+  ],
   "mapRest": {
     "source": { "latitude": -33.8356372, "longitude": 18.6947617 },
     "destination": { "latitude": -33.8600024, "longitude": 18.697459 },
